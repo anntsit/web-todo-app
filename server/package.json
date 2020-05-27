@@ -1,0 +1,24 @@
+{
+  "name": "js-simple-api",
+  "version": "0.0.1",
+  "description": "Botstrap for simple service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kai25/node-js-simple-api.git"
+  },
+  "author": "kai25",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kai25/node-js-simple-api/issues"
+  },
+  "homepage": "https://github.com/kai25/node-js-simple-api#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nedb": "^1.8.0"
+  }
+}

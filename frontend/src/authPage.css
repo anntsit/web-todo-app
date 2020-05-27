@@ -1,0 +1,49 @@
+.auth-block {
+    width: 300px;
+    height: 120px;
+    background: white;
+    box-shadow: 4px 2px 4px 0px rgba(0,0,0,0.75);
+    margin: 0 auto;
+    border-radius: 10px;
+}
+
+.login-block-tab {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    width: 150px;
+    display: inline-block;
+    border-bottom: 1px solid lightgrey;
+}
+
+
+.register-block-tab {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    width: 150px;
+    display: inline-block;
+    border-bottom: 1px solid lightgrey;
+}
+
+.enabled-tab {
+    border-bottom: 3px solid #2d7a9c;
+}
+
+.auth-button {
+    margin: 25px;
+    height: 35px;
+    width: 250px;
+    vertical-align: middle;
+}
+
+.auth-text {
+    display: inline-block;
+    vertical-align: top;
+    padding-top: 8px;
+}
+
+.gh-img {
+    margin-right: 10px;
+    margin-top: -4px;
+    padding-top: 5px;
+    display: inline-block
+}

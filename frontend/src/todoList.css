@@ -1,0 +1,65 @@
+.todo-table {
+
+}
+
+.todo-container {
+  padding: 10px 80px;
+}
+
+.title {
+  margin: 20px 0;
+  font-size: 20px;
+}
+
+.number-cell {
+  width: 10px;
+  text-align: center;
+}
+
+.text-cell {
+  width: 800px;
+  text-align: left;
+}
+
+.checkbox-cell {
+  width: 15px;
+  text-align: center;
+}
+
+.delete-cell {
+  width: 70px;  
+  text-align: center;
+}
+
+.new-task-input {
+  width: 400px;
+  height: 24px;
+  border-radius: 12px 0 0 12px;
+  margin-right: -1px;
+  border-right: none;
+  margin-bottom: 15px;
+}
+
+.new-task-button {
+  vertical-align: top;
+  border-radius: 0 12px 12px 0;
+  font-size: 16px;
+  border-left: none;
+}
+
+.new-task-button:hover {
+  background-color: #2d7a9c;
+  border-color: #2d7a9c;
+  color: #e4f5ff;
+}
+
+.status-checkbox {
+  background-color: transparent;
+  border-radius: 5px;
+  width: 18px;
+  height: 18px;
+}
+
+.crossline-row {
+  text-decoration: line-through;
+}
